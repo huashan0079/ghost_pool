@@ -1,4 +1,4 @@
-# GhostPool - 高性能幽灵指针池
+# GhostPool-v1.0 - 高性能幽灵指针池
 
 ## 概述
 
